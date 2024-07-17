@@ -3,12 +3,12 @@ entries:
   testchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-07-17T17:34:10.853276246+05:30"
+    created: "2024-07-17T17:36:27.312482388+05:30"
     description: A Helm chart for Kubernetes
     digest: c506d8b6610b80ab0818cf2c132dcae20ecce9a0d53353000733e60d124c0d6c
     name: testchart
     type: application
     urls:
-    - https://purushothamkdr453.github.io/helmcharts/testchart-1.0.0.tgz
+    - testchart-1.0.0.tgz
     version: 1.0.0
-generated: "2024-07-17T17:34:10.852529173+05:30"
+generated: "2024-07-17T17:36:27.312062059+05:30"
